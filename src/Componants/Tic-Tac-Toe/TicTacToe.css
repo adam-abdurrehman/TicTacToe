@@ -1,0 +1,50 @@
+.container{
+    width: 60vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading{
+    font-size: 2.5rem;
+}
+
+.heading span{
+    color: #26ffcb;
+}
+
+.reset{
+    padding: 20px 50px;
+    background-color: #1f3540;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50px;
+    font-size: 1.25rem;
+    color: #26ffcb;
+    margin-block: 30px 0;
+}
+
+.board{
+    height: 270px;
+    width: 270px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.board .boxes{
+    width: 90px;
+    height: 90px;
+    background: #1f3540;
+    border: 2px solid #0f1b21;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
