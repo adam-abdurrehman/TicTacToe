@@ -9,8 +9,8 @@
 
 ### Here is some representation of my `Tic Tac Toe` project.
 
-![Player1 Screenshot](src/assets/circle.png)
+![Player1 Screenshot](src/Componants/Assets/circle.png)
 
-![Player2 Screenshot](src/assets/croos.png)
+![Player2 Screenshot](src/Componants/Assets/cross.png)
 
-![Screenshot](src/assets/[Screenshot.png)
+![Screenshot](src/Componants/Assets/Screenshot.png)
