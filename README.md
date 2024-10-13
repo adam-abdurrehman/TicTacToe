@@ -1,15 +1,16 @@
-# React + Vite
 
-##Tic Tac Toe
+# Tic Tac Toe
+ 
+## A simple `Tic Tac Toe` game, using reactjs.
 
-###This is the repository of a simple tic tac toe game!
+### You can  easily `download` this repo by going to the `code button`, after pressing it click on `Download zip`.
 
-![Player 1](https://github.com/adam-abdurrehman/Tic-Tac-Toe/blob/main/circle.png?raw=true)
-![Player 2](https://github.com/adam-abdurrehman/Tic-Tac-Toe/blob/main/cross.png?raw=true)
-![Screenshot](https://github.com/adam-abdurrehman/Tic-Tac-Toe/blob/main/Screenshot.png?raw=true)
+### After `Downloading` it, open in `VS-code`, and run the `npm run dev` command in the terminal, and copy or manually type `(http://localhost:5173/)` your project start working.
 
+### Here is some representation of my `Tic Tac Toe` project.
 
-Currently, two official plugins are available:
+![Player1 Screenshot](src/assets/circle.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Player2 Screenshot](src/assets/croos.png)
+
+![Screenshot](src/assets/[Screenshot.png)
